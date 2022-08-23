@@ -1,0 +1,13 @@
+class CfgFunctions {
+	class LEO_FFF {
+		class Fnc {
+			class init {
+				preInit = 1;
+				file = "LEO_FreeFallFix\fn_init.sqf";
+			};
+			class perFrameEH {
+				file = "LEO_FreeFallFix\fn_perFrameEH.sqf";
+			};
+		};
+	};
+};
