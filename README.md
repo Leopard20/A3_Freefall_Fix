@@ -1,8 +1,12 @@
 # A3_Freefall_Fix
 This is a simple script that fixes the freefall (halo) pose in Arma 3 when the character is above +100m
 
+# Requirements
+Arma 3 v2.10+
+
 # How to use
 Copy the `LEO_FreefallFix` folder to your mission folder.
+You can change the minimum freefall height in the `fn_init.sqf` file.
 
 Choose one of the steps below, depending on which one is applicable to your mission.
 
