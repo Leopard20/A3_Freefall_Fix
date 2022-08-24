@@ -26,3 +26,6 @@ class LEO_FFF {
 	};
 };
 ```
+
+# Mod Version
+The mod version is available on [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2853202785).
