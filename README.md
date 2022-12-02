@@ -1,5 +1,5 @@
 # A3_Freefall_Fix
-This is a simple script that fixes the freefall (halo) pose in Arma 3 when the character is above +100m
+This is a simple script that fixes the freefall (halo) pose in Arma 3 when the character is +100m above ground.
 
 # Requirements
 Arma 3 v2.10+
